@@ -1,0 +1,45 @@
+.message {
+    padding: 20px 70px;
+}
+
+.imageAndText {
+
+
+    display: flex;
+    justify-content: end;
+    flex-direction: row-reverse;
+}
+
+.imageAndText img {
+    margin-left: 20px;
+    width: 48px;
+    height: 48px;
+}
+
+.text {
+    padding: 10px;
+    font-size: 18px;
+    text-align: right;
+    color: #FFFFFF;
+    background-color: #0059b3;
+    border-radius: 10px 10px 0px 10px;
+
+}
+
+.text:after {
+
+}
+
+.name {
+    font-weight: bold;
+}
+
+.messageText {
+    font-size: 16px;
+}
+
+.time {
+    padding-right: 8px;
+    text-align: right;
+    font-size: 10px;
+}

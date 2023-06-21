@@ -1,0 +1,15 @@
+.App {
+    padding-top: 50px;
+    --header_height: 60px;
+}
+
+.hw {
+    padding: 100px;
+
+}
+
+.hwTitle {
+    text-align: center;
+    font-size: 20px;
+
+}
