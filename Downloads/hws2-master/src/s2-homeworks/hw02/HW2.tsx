@@ -4,7 +4,7 @@ import s2 from '../../s1-main/App.module.css'
 import {constants} from "os";
 // import priority = module
 
-/*
+/*ghbdtn
 * 1 - описать типы AffairPriorityType, AffairType
 * 2 - указать нужный тип для defaultAffairs
 * 3 - дописать типы и логику функции filterAffairs и проверить её тестами
